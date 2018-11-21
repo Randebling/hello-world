@@ -1,1 +1,4 @@
 Master haarassa lisätty teksti
+
+
+THIS IS A NEW EDIT FROM hotFIX branch
